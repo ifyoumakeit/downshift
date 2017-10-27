@@ -85,8 +85,7 @@ npm install --save downshift
 > have those installed as well.
 
 > Note also this library supports `preact` out of the box. If you are using
-> `preact` then look in the `dist/` folder and use the module you want with the
-> `preact` suffix.
+> `preact` then use the corresponding module in the `preact/dist` folder.
 
 ## Usage
 
